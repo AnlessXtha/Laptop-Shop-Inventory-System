@@ -1,0 +1,8 @@
+Razer Blade   , Razer  , $2000, 33,     i7 7th Gen, GTX 3060, 32 GB, 1 TB HDD
+XPS           , Dell   , $1975, 42,     i5 9th Gen, GTX 3070, 16 GB, 1 TB HDD
+Inspiron 15   , Dell   , $1125, 30,     i5 9th Gen, GTX 3070, 8 GB, 512 GB HDD
+Swift 7       , Acer   , $1050, 50,     i5 9th Gen, GTX 3070, 8 GB, 250 GB SSD
+Alienware    , Alienware, $1978, 43,     i5 9th Gen, GTX 3070, 32 GB, 512 GB HDD
+Macbook Pro 16, Apple  , $3500, 26,     i5 9th Gen, GTX 3070, 16 GB, 1 TB HDD
+Pavilion Aero , HP      , $1130, 35,    i5 11th Gen, GTX 3050, 8 GB, 1 TB HDD
+Terca A10     , Toshiba , $1350, 48,     i7 7th Gen, GTX 3050, 16 GB, 250 GB SSD
